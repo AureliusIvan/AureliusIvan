@@ -2,9 +2,9 @@
 ![Cool Banner](https://via.placeholder.com/1000x200.png?text=Welcome+to+My+GitHub+Profile)
 
 <!-- Profile Information -->
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Ivan! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in [your interests/field of expertise]. Below you'll find more about me, my skills, and some of my projects.
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in **Software Engineering**. Below you'll find more about me, my skills, and some of my projects.
 
 ## About Me
 
@@ -35,7 +35,7 @@ Here are some of my favorite projects:
 
 ## Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AureliusIvan&show_icons=true&theme=radical)
 
 ## Connect with Me
 
