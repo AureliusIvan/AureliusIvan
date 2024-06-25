@@ -1,6 +1,4 @@
 <!-- Cool Banner -->
-![Cool Banner](https://via.placeholder.com/1000x200.png?text=Welcome+to+My+GitHub+Profile)
-
 <!-- Profile Information -->
 # Hi there, I'm Ivan! 👋
 
