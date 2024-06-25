@@ -6,10 +6,6 @@ categories: ["creativity", "all-profile"]
 githubUsername: 'AureliusIvan'
 ---
 
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-[![adamalston.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/)
-
 **Languages I have used**
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
@@ -54,4 +50,4 @@ githubUsername: 'AureliusIvan'
 
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
 
-⭐️ From [AureliusIvan](https://github.com/adamalston)
+⭐️ From [AureliusIvan](https://github.com/AureliusIvan)
