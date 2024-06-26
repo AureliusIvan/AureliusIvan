@@ -2,15 +2,16 @@
 <!-- Profile Information -->
 # Hi there, I'm Ivan! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in **Software Engineering**. Below you'll find more about me, my skills, and some of my projects.
+![Halo!](https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif)
 
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in **Software Engineering**. Below you'll find more about me, my skills, and some of my projects.
 ## About Me
 
 - 🔭 I’m currently working on [current project]
 - 🌱 I’m currently learning **Rust**
-- 👯 I’m looking to collaborate on [projects you'd like to collaborate on]
-- 🤔 I’m looking for help with [projects or areas where you need help]
-- 💬 Ask me about [topics you can help with]
+- 👯 I’m looking to collaborate on **cool Node.js or Python library**
+- 🤔 I’m looking for help with my **open source project**
+- 💬 Ask me about **Node.js**, **Python**, and **Docker**
 - 📫 How to reach me: aureliusivanwijaya@gmail.com
 - ⚡ Fun fact: [a fun fact about you]
 
