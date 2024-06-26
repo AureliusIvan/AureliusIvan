@@ -7,13 +7,12 @@
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in **Software Engineering**. Below you'll find more about me, my skills, and some of my projects.
 ## About Me
 
-- 🔭 I’m currently working on [current project]
+- 🔭 I’m currently working on **File-Morph**
 - 🌱 I’m currently learning **Rust**
 - 👯 I’m looking to collaborate on **cool Node.js or Python library**
 - 🤔 I’m looking for help with my **open source project**
 - 💬 Ask me about **Node.js**, **Python**, and **Docker**
 - 📫 How to reach me: aureliusivanwijaya@gmail.com
-- ⚡ Fun fact: [a fun fact about you]
 
 ## Skills
 
@@ -29,8 +28,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 Here are some of my favorite projects:
 
 - [**ivann.my.id**](https://github.com/AureliusIvan/ivann.my.id) - My own personal website, build with next.js and express.
-- [**Project 2**](https://github.com/yourusername/project2) - Brief description of Project 2.
-- [**Project 3**](https://github.com/yourusername/project3) - Brief description of Project 3.
+- [**UMN Sims**](https://github.com/AureliusIvan/UMN-Sims-the-Game/) - Our school life simulator game project created with React.js.
 
 ## Stats
 
