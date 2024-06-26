@@ -7,11 +7,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## About Me
 
 - 🔭 I’m currently working on [current project]
-- 🌱 I’m currently learning [current learning]
+- 🌱 I’m currently learning **Rust**
 - 👯 I’m looking to collaborate on [projects you'd like to collaborate on]
 - 🤔 I’m looking for help with [projects or areas where you need help]
 - 💬 Ask me about [topics you can help with]
-- 📫 How to reach me: [your email]
+- 📫 How to reach me: aureliusivanwijaya@gmail.com
 - ⚡ Fun fact: [a fun fact about you]
 
 ## Skills
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 Here are some of my favorite projects:
 
-- [**Project 1**](https://github.com/yourusername/project1) - Brief description of Project 1.
+- [**ivann.my.id**](https://github.com/AureliusIvan/ivann.my.id) - My own personal website, build with next.js and express.
 - [**Project 2**](https://github.com/yourusername/project2) - Brief description of Project 2.
 - [**Project 3**](https://github.com/yourusername/project3) - Brief description of Project 3.
 
