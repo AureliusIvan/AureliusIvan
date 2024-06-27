@@ -13,6 +13,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - 🤔 I’m looking for help with my **open source project**
 - 💬 Ask me about **Node.js**, **Python**, and **Docker**
 - 📫 How to reach me: aureliusivanwijaya@gmail.com
+- 📑 Check out my CV at https://read.cv/ivann
 
 ## Skills
 
