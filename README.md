@@ -7,7 +7,7 @@
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in **Software Engineering**. Below you'll find more about me, my skills, and some of my projects.
 ## About Me
 
-- 🔭 I’m currently working on **File-Morph**
+- 🔭 I’m currently working on [**Remembear**](https://github.com/AureliusIvan/remembear)
 - 🌱 I’m currently learning **Rust**
 - 👯 I’m looking to collaborate on **cool Node.js or Python library**
 - 🤔 I’m looking for help with my **open source project**
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## Projects
 
 Here are some of my favorite projects:
-
+- [**Remembear**](https://github.com/AureliusIvan/remembear) - An app for people with short-term-memory.
 - [**ivann.my.id**](https://github.com/AureliusIvan/ivann.my.id) - My own personal website, build with next.js and express.
 - [**UMN Sims**](https://github.com/AureliusIvan/UMN-Sims-the-Game/) - Our school life simulator game project created with React.js.
 
